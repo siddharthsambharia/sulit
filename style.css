@@ -6,15 +6,3 @@ body {
 	margin: 0;
 	padding: 0;
 }
-
-@media screen and (min-width: 767px) {
-	body {
-	
-			background-image: url('Website banner (2).jpg');
-		background-size: cover;
-		background-repeat: no-repeat;
-		background-attachment: fixed;
-		margin: 0;
-		padding: 0;
-	}
-}
